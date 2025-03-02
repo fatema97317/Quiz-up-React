@@ -5,7 +5,7 @@ import React , { useState} from 'react';
 let data = [
   {question : "what is your name?" , answer : "fatema" },
   {question : "what is your lastname?" , answer : "Mirzadeh" },
-  {question : "how old are you?" , answer : "23" },
+  {question : "how old are our?" , answer : "23" },
   {question : "when is ypur DOB ?" , answer : "2002" },
   {question : "where do you live?" , answer : "Afghanistan"}
 ]
